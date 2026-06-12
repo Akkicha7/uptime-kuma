@@ -1,3 +1,18 @@
+# My Customized Uptime Kuma Distribution
+
+This repository is a personalized, independent distribution of Uptime Kuma, featuring custom user experience enhancements.
+
+## Custom Enhancements: Dynamic Analytics Configuration Form
+I refactored the generic status-page analytics setup form into an adaptive, context-aware user interface built with Vue 3.
+
+- **Dynamic Terminology:** Replaced abstract form inputs with exact provider-specific strings (e.g., "Measurement ID" for Google Analytics, "Website ID" for Umami, "Data Domain" for Plausible).
+- **Contextual UI Help:** Integrated adaptive placeholders and targeted inline helper texts underneath inputs to eliminate user guessing during configuration setups.
+
+### Visual Modication Previews:
+[DRAG, DROP, OR PASTE YOUR 4 SCREENSHOTS DIRECTLY HERE]
+
+---
+
 <div align="center" width="100%">
     <img src="./public/icon.svg" width="128" alt="Uptime Kuma Logo" />
 </div>
